@@ -1,3 +1,13 @@
-\# Jamie’s Section
+---
+title: "collab"
+format: html
+editor: visual
+---
 
-This is my contribution to the Quarto project.
+\# Introduction
+
+This is a collaborative Quarto project.
+
+# Contributions
+
+<!-- Student sections will go here -->
